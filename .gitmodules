@@ -1,9 +1,0 @@
-[submodule "atomic"]
-	path = atomic
-	url = ./atomic
-[submodule "container-presentation"]
-	path = container-presentation
-	url = ./container-presentation
-[submodule "no-design"]
-	path = no-design
-	url = ./no-design
